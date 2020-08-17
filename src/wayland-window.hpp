@@ -9,7 +9,7 @@
 #include <wayfire-shell-unstable-v2-client-protocol.h>
 #include <virtual-keyboard-unstable-v1-client-protocol.h>
 
-#define OSK_SPACING 8
+#define OSK_SPACING 4
 static constexpr int32_t ANCHOR_PINNED_BOTTOM = -2;
 
 namespace wf
